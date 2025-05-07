@@ -1,3 +1,4 @@
+control+Shift+m
 # User manual
 
 [[toc]]
